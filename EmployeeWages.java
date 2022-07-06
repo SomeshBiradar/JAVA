@@ -6,7 +6,7 @@ public class EmployeeWages {
 	
 	public static void main(String args[]) {
 		
-		System.out.println("Welcome to the Employee Wage computation programee");
+		System.out.println("Welcome to the Employee Wage computation program");
 		EmployeeWages emp=new EmployeeWages();
 	    Random rand=new Random();
 	    int r=rand.nextInt(3);
